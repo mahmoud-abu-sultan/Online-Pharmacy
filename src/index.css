@@ -1,0 +1,8 @@
+body {
+  box-sizing: border-box;
+}
+:root {
+  --colorlight: #54febd;
+  --colorMid: #167b7b;
+  --colorDark: #455a64;
+}
